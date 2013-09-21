@@ -1,11 +1,14 @@
-Conversor de .tmTheme para .xml 
-
-windows:
+Conversor de arquivos de temas do textmate(.tmTheme) para intelidea(.xml)
 
 1 - adicione o tema que deseja converter em  tmThemes
 2 - edite o arquivo run.bat adicionado o caminho do tema desejado
 3 - execute o run.bat
 4 - copie o xml  para a pasta do programa
+
+MacOS X: ~/Library/Preferences/PyCharm10/colors
+GNU/Linux: ~/.PyCharm10/config/color
+Windows Vista and 7: C:\Users\$USER\.PyCharm10\config\colors
+Windows XP: C:\Documents and Settings\$USER\.PyCharm10\config\colors
 
 Requer Python \o/
 
